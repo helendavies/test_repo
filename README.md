@@ -10,6 +10,3 @@ Here is a list to complete:
 - [x] do an initial commit
 - [x] make another commit to update this README...
 - [x] Another change
-
-
-Random line I want to keep
